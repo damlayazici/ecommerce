@@ -11,4 +11,9 @@ Projede DB bağlantısı yoktur; alternatif olarak json dosya yöntemi kullanıl
 
 
 * #### Anasayfa 
-![enter image description here](https://github.com/damlayazici/ecommerce/blob/main/anasayfa.PNG)
+![anasayfa](https://github.com/damlayazici/ecommerce/blob/main/anasayfa.PNG)
+
+<hr>
+
+* #### Session
+![session](https://github.com/damlayazici/ecommerce/blob/main/session.PNG)
